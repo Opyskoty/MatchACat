@@ -4,15 +4,19 @@
 }
 
 
-button {
+#restart {
     position: absolute;
     left: 100px;
     top: 40%;
     font-family: 'Bangers', cursive;
-    font-size: xx-large;
+    font-size: large;
+    background-color: transparent;
+    border-width: thin;
+    border-color: #807d7d;
+    box-shadow: none;
 }
 
-button:hover{
+#restart:hover{
     background-color: rgb(142, 219, 112);
     color: white;
 }
