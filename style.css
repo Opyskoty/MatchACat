@@ -1,0 +1,27 @@
+body {
+    font-family: 'Bangers', cursive;
+    height: 100vh;
+}
+
+.container {
+    text-align: center;
+}
+
+h1 {
+    font-size: 90pt;
+}
+
+.fa-paw {
+    color: rgb(102, 211, 87);
+    text-align: center;
+}
+
+.fa-stack:hover .fa-paw{
+    color: rgb(160, 236, 150);
+}
+
+strong {
+    font-size: 14pt;
+    margin-top: 1.9em;
+    font-family: 'Bangers', cursive;
+}
